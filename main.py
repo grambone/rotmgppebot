@@ -73,9 +73,9 @@ from utils.memory_hygiene import run_memory_hygiene
 
 from utils.autocomplete import class_autocomplete, item_name_autocomplete, bonus_autocomplete, user_bonus_autocomplete, target_user_bonus_autocomplete, team_name_autocomplete, rarity_autocomplete
 
-SERVER1_ID = 879497062117412924 # Last Oasis
-SERVER2_ID = 1435436110829326459 # Test Server
-SERVER3_ID = 1485395885666992248 # My Testing Server
+SERVER1_ID = 724896705782349876 # Boneless Zone
+SERVER2_ID =  # Test Server
+SERVER3_ID =  # My Testing Server
 
 guilds = [discord.Object(id=SERVER1_ID), discord.Object(id=SERVER2_ID), discord.Object(id=SERVER3_ID)]
 
